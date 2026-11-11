@@ -60,7 +60,3 @@ Last updated: 2026-11-11
 - [ ] Spark processing on Databricks
 - [ ] AWS deployment
 - [ ] Architecture diagram and final write-up
-
-## How to run
-
-Nothing to run yet. Instructions will appear with the ingestion package.

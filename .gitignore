@@ -221,21 +221,20 @@ __marimo__/
 
 
 # --- Data project ---
-# Dane lokalne (nie wrzucamy surowych/pośrednich danych do repo)
+# Local Data
 data/
 *.parquet
 *.csv
 *.xlsx
 
-# Sekrety
-.env
+# Secrets
 *.pem
 credentials*.json
 
-# Notebooki
+# Notebooks
 .ipynb_checkpoints/
 
-# IDE / systemowe
+# IDE / systems
 .vscode/
 .idea/
 .DS_Store
