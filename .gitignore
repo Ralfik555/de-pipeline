@@ -219,7 +219,6 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-
 # --- Data project ---
 # Local Data
 data/
@@ -230,9 +229,6 @@ data/
 # Secrets
 *.pem
 credentials*.json
-
-# Notebooks
-.ipynb_checkpoints/
 
 # IDE / systems
 .vscode/
